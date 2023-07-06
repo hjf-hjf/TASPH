@@ -5,7 +5,7 @@ Huang J, Kang P, Han N, et al. Two-stage Asymmetric Similarity Preserving Hashin
 Please contact us at junfanhuang@126.com for questions.
 
 # Datasets
-datasets: download from the following link: https://pan.baidu.com/s/1_qurXrHNhspHUDnSwGLm7w with code: yosy
+Download from the following link: https://pan.baidu.com/s/1_qurXrHNhspHUDnSwGLm7w with code: yosy
 
 # Run Demo
 Run TASPH_demo.m and the result is saved in log.txt
