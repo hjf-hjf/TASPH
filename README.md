@@ -8,5 +8,4 @@ Please contact us at junfanhuang@126.com for questions.
 datasets: download from the following link: https://pan.baidu.com/s/1_qurXrHNhspHUDnSwGLm7w with code: yosy
 
 # Run Demo
-Run TASPH_demo.m
-The reusult is saved in log.txt
+Run TASPH_demo.m and the result is saved in log.txt
